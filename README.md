@@ -1,6 +1,8 @@
 # cosmos
 An example iOS Reddit client with emphasis on testing and automation.
 
+![alt text](https://nibbit.me/appico.png "Logo")
+
 __Requirements:__
 
 CI/CD Server: 
@@ -34,7 +36,7 @@ __iOS Technologies Involved__
 
 __Recommended Test Environment__
 
-iPhone XS Simulator with iOS 12.1+
+iPhone XS Simulator with iOS 12.1+\
 Please have the Simulator launched and ready before running the Test(XCTest)!
 
 © 2018-2019 William Yang
