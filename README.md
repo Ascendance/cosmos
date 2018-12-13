@@ -18,7 +18,7 @@ If a macOS machine with public IP is not available, [Servo](http://serveo.net) i
 __Steps:__
 
 1. Download and install Jenkins for macOS. 
-2. Run Jenkins with ```java -jar jenkins.war``` if machine uses JDK 8.
+2. Run Jenkins with ```sjava -jar jenkins.war``` if machine uses JDK 8.
 3. Run Jenkins with ```java -jar jenkins.war --enable-future-if``` if machine uses java JDK 10.
 4. Configure Github to send webhooks to Jenkins on macOS machine
 7. Install and configure Jenkins [Xcode Integration](https://plugins.jenkins.io/xcode-plugin).
