@@ -32,6 +32,11 @@ __iOS Technologies Involved__
 * Kingfisher
 * SwiftyJSON
 
+__Recommended Test Environment__
+
+iPhone XS Simulator with iOS 12.1+
+Please have the Simulator launched and ready before running the Test(XCTest)!
+
 © 2018-2019 William Yang
 
 3
