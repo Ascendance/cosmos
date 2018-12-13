@@ -24,7 +24,7 @@ __Steps:__
 3. Run Jenkins with ```java -jar jenkins.war --enable-future-if``` if machine uses java JDK 10.
 4. Configure Github to send webhooks to Jenkins on macOS machine
 7. Install and configure Jenkins [Xcode Integration](https://plugins.jenkins.io/xcode-plugin).
-8. Attempt Xcode __Source Control > Pull__.
+8. Attempt __Pull Request__.
 9. Wait for Jenkins + GitHub to do its magic.
 
 __iOS Technologies Involved__
