@@ -13,7 +13,7 @@ CI/CD Server:
 
 __Idea:__
 
-If a macOS machine with public IP is not available, [Servo](http://serveo.net) is used to publicly expose our Jenkins instance so Github can send webhooks to Jenkins, triggering builds on each pull request. If a macOS machine with public is available, we send Github webhooks directly to that machine. 
+If a macOS machine with public IP is not available, [Serveo](http://serveo.net) is used to publicly expose our Jenkins instance so Github can send webhooks to Jenkins, triggering builds on each pull request. If a macOS machine with public is available, we send Github webhooks directly to that machine. 
 
 __Steps:__
 
